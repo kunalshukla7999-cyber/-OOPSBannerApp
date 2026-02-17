@@ -1,0 +1,23 @@
+echo "# Compiled Java files
+*.class
+*.jar
+*.war
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.eclipse/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build folders
+bin/
+out/
+build/
+target/
+
+# Log files
+*.log" > .gitignore
